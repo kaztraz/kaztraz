@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 
 <!-- - 💬 Ask me about ...-->
 - 📫 How to reach me: 
-    - kaztraz(at)gmail.com
+    - Simplest just find me on social:
+        - JDKarlsson or KazTraZ  
+        - https://www.linkedin.com/in/jdkarlsson/  
+    - or email me:
+        - kaztraz(at)gmail.com
 
 <!-- - ⚡ Fun fact: -->
 
