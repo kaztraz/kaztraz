@@ -4,13 +4,23 @@
 **kaztraz/kaztraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on to much...
+    - My personal litttle website
+    - My tiny little top secret game/crypto project
+    - 
+- 🌱 I’m currently learning alot also
+    - JS
+    - CyberSec
+
+- 👯 I’m looking to collaborate on anything related to the web, be it front end or back!
+
+- 🤔 I’m looking for help with most of it... if you are the helping hand kinda person, send me a PM
+
+<!-- - 💬 Ask me about ...-->
+- 📫 How to reach me: 
+    - kaztraz(at)gmail.com
+
+<!-- - ⚡ Fun fact: -->
+
