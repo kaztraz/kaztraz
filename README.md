@@ -1,4 +1,4 @@
-Hi 👋 My name is Josef Dan Karlsson
+Hi 👋 My name is JD Karlsson (KazTraZ)
 ===================================
 
 *   🌍  I'm based in Norway
