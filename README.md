@@ -25,5 +25,7 @@ Hi 👋 My name is Josef Dan Karlsson
 
 ### Badges
 
-### Support Me<a href="https://www.buymeacoffee.com/kaztraz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### Support Me<a href="https://www.buymeacoffee.com/kaztraz">
+
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
