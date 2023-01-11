@@ -2,7 +2,7 @@ Hi 👋 My name is JD Karlsson (KazTraZ)
 ===================================
 
 *   🌍  I'm based in Norway
-*   🚀  I'm currently working on [Cyber Security](http://tryhackme.com/p/KazTraZ)
+*   🚀  I'm currently working in [Cyber Security](http://tryhackme.com/p/KazTraZ)
 *   🧠  I'm learning about Cyber Security in depth at the moment
 *   🤝  I'm open to collaborating on interesting projects
 
