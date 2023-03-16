@@ -3,7 +3,7 @@ Hi 👋 My name is JD Karlsson (KazTraZ)
 ===================================
 
 *   🚀  I'm currently working on an [AI inspiration generator](https://github.com/chat-gpt-hack/Inspire-GPT)
-*   🧠  I'm learning about Cyber Security in depth at the moment
+*   🧠  I'm learning about React, Vite, and Sass
 *   🤝  I'm open to collaborating on interesting projects
 
 ## 🌐Socials
