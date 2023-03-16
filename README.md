@@ -2,8 +2,7 @@
 Hi 👋 My name is JD Karlsson (KazTraZ)
 ===================================
 
-*   🌍  I'm based in Norway
-*   🚀  I'm currently working on learning the inns and outs of [Cyber Security](http://tryhackme.com/p/KazTraZ)
+*   🚀  I'm currently working on an [AI inspiration generator]([https://tryhackme.com/p/KazTraZ](https://github.com/chat-gpt-hack/Inspire-GPT))
 *   🧠  I'm learning about Cyber Security in depth at the moment
 *   🤝  I'm open to collaborating on interesting projects
 
