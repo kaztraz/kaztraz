@@ -2,7 +2,7 @@
 Hi 👋 My name is JD Karlsson (KazTraZ)
 ===================================
 
-*   🚀  I'm currently working on an [AI inspiration generator]([https://tryhackme.com/p/KazTraZ](https://github.com/chat-gpt-hack/Inspire-GPT))
+*   🚀  I'm currently working on an [AI inspiration generator](https://github.com/chat-gpt-hack/Inspire-GPT)
 *   🧠  I'm learning about Cyber Security in depth at the moment
 *   🤝  I'm open to collaborating on interesting projects
 
